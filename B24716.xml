@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices of Ireland. A proclamation. Sydney, Tho: Coningesby The general of their majesties forces in this kingdom, having thought fit to march the army to their winter-quarters, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24716</idno><idno type="EEBO-CITATION">99886461_186721</idno>
+  <idno type="VID">186721</idno>
+  <idno type="EEBO-PROQUEST">2248538061</idno>
+  
+            <idno type="STC">Wing I442</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[123]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[12]</idno>
+            <idno type="STC">ESTC R226047</idno>
+            <idno type="PROQUEST">ocm99886461</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886461e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186721)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[123]; C5:3[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices of Ireland. A proclamation. Sydney, Tho: Coningesby The general of their majesties forces in this kingdom, having thought fit to march the army to their winter-quarters, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Tooke printer to the King and Queen at their Majesties Printing-House on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at their Majesties castle of Dublin the fourteenth day of November, 1690. And in the second year of their Majesties reign".</note>
+                  <note>For provisioning the army with provisions a fixed rates.--Steele.</note>
+                  <note>Steele notation: Arms 199. this regular 2) Souldier, respective.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Reede-Ginckel, Godard, --  Baron van, 1644-1703.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186721:1"/>
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>JE MEIN TIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE LORDS-JUSTICES Of IRELAND, A PROCLAMATION.</head>
+            <opener>
+               <salute>SYDNEY, THO: CONINGESBY</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE General of Their Majesties Forces in this Kingdom, having thought fit to March the Army to their Winter-Quarters, to remain there un<g ref="char:EOLhyphen"/>til Occasion require them to take the Field. We think it absolutely necessary, that the said Army in their respective Quarters be provided for with necessary Meat and Drink. And whereas many Inconveniencies may attend Their Majesties good Subjects remaining in the several Quar<g ref="char:EOLhyphen"/>ters, by the Disorder of Souldiers, where some regular Method is not laid down for their Sup<g ref="char:EOLhyphen"/>port. And being desirous to take away all manner of Excuse from the said Souldiers for committing such Disorders, and to accommodate the said Ar<g ref="char:EOLhyphen"/>my, and to encourage the said Subjects in the quiet enjoyment of their Pro<g ref="char:EOLhyphen"/>perty and respective Enjoyments. We have thought fit, and do hereby will and require all their Majesties Subjects within the several Provinces and Counties in this Kingdom under Their Majesties Obedience, that they and every of them do constantly supply the Markets, in each Town wherein any of the said Forces are Quartered, with all sorts of Provisions as usually done heretofore, and not to demand higher Rates, then what are hereafter men<g ref="char:EOLhyphen"/>tioned. And whereas many of the Souldiers Quartered in Towns and Vil<g ref="char:EOLhyphen"/>lages, may not at present be able to pay for their Dyet. We do think St, and accordingly do hereby Order, that the respective Inhabitants in every Town and Village, on whom Souldiers shall be Quartered, do provide for the said Souldiers, decent, wholsome Dyet, such as the Country affords; that is to say, one hot Meal a Day, and the remainder of the Dinner for Fright, for which, the Person so providing, shall receive for every Foot Souldier, three pence a day, for every Dragoon, three pence half-penny, and for every Trooper, four pence, and for Horse-meat, the Rates hereafter set down All which se<g ref="char:EOLhyphen"/>veral Rates shall be paid to the Person that shall provide the said Dyet, or to their Assignes, they producing such Certificate of the Debts as is required by Lieutenant-General <hi>Ginckell's</hi> Orders of the Thirteenth day of <hi>November</hi>
+               <pb facs="tcp:186721:2"/> Instant. And We are assured that he will severely punish any Souldier, that shall presume (being thus provided for) to steal, or forcibly take from a<g ref="char:EOLhyphen"/>ny Person, Provisions or other Commodities. And whereas many Farmers, and others, may have great Quantities of Hay and Corn, more then will answer the maintenance of their respective Families, and for Sowing their Land; all such Persons are hereby required, to bring in such surplus of Hay and Corn, to such Their Majesties Garrisons, as are or shall be appointed for Magazines, by the General of the said Forces, where the same shall be received by Store-Keepers, appointed for that purpose, who up<g ref="char:EOLhyphen"/>on receipt of any Parcels of Hay or Grain are hereby required to give a Cer<g ref="char:EOLhyphen"/>tificate of the Quantities received, which said Certificate, shall be a Security unto the Person delivering the said Hay and Corn, for so much as it amounts unto, according to the following Rates, or under, according to the goodness of the Commodity, which Money shall be allowed and paid to the respective Persons.</p>
+            <list>
+               <head>RATES of PROVISIONS.</head>
+               <item>WHeat, Fifteen Shillings <hi>per</hi> Barrel, containing 128. Quarts <hi>Winchester</hi>-Measure.</item>
+               <item>
+                  <del>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Seven Shillings six pence <hi>per</hi> Barrel. <hi>Ditto</hi> Measure.</del>
+               </item>
+               <item>
+                  <hi>Oats,</hi> four shillings <hi>per</hi> Barrel. <hi>Ditto</hi> Measure.</item>
+               <item>
+                  <hi>Oat-Meale,</hi> one penny <hi>per</hi> Quart.</item>
+               <item>
+                  <hi>Mutton,</hi> one penny half-penny <hi>per</hi> Pound.</item>
+               <item>
+                  <hi>Beef,</hi> one penny <hi>per</hi> Pound,</item>
+               <item>
+                  <hi>New-Milk Cheese,</hi> two pence half-penny <hi>per</hi> Pound.</item>
+               <item>
+                  <hi>Skim-Milk Cheese,</hi> one penny half-penny <hi>per</hi> Pound.</item>
+               <item>
+                  <hi>Butter,</hi> four pence <hi>per</hi> Pound.</item>
+               <item>
+                  <hi>Strong Beer</hi> in the Quarters, two pence <hi>per</hi> Quart, and if brought above ten Miles, three pence <hi>per</hi> Quart.</item>
+               <item>
+                  <hi>Brandy,</hi> two shillings <hi>per</hi> Quart.</item>
+               <item>
+                  <hi>Good Waters,</hi> one Shilling three pence <hi>per</hi> Quart.</item>
+               <item>
+                  <hi>Sweet Milk,</hi> a half-penny <hi>per</hi> Quart.</item>
+               <item>
+                  <hi>Hay,</hi> twelve pence <hi>per</hi> Hundred weight.</item>
+            </list>
+            <closer>
+               <dateline>Given at their Majesties Castle of <hi>Dublin</hi>
+                  <date>the Fourteenth day of <hi>November,</hi> 1690. And in the Second year of their Majesties Reign.</date>
+               </dateline>
+               <lb/>God Save the KING and QUEEN.<lb/>
+               <signed>Jo<seg rend="sup">n</seg>. Davis</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Took</hi> Printer to the <hi>King</hi> and <hi>Queen</hi> at their <hi>Majesties</hi> printing-house on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
